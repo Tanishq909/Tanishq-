@@ -49,6 +49,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 If you have any questions or want to reach out, you can contact:
 
-Tanishq Kumar - your-email@example.com
-GitHub: your-username
-LinkedIn: your-linkedin
+Tanishq Kumar - tanishqkumar2334@gmail.com
+GitHub: https://github.com/Tanishq909/
+LinkedIn: https://www.linkedin.com/in/tanishq-kumar/
