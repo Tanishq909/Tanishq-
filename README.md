@@ -15,7 +15,7 @@ Follow these steps to set up the project locally.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Tanishq909/Tanishq-/blob/main/README.md 
 Navigate to the project directory:
 bash
 Copy code
